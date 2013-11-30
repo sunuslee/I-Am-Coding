@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+*pyc
+*py~
+*json
+=======
 *.py[cod]
 
 # C extensions
@@ -34,3 +39,4 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+>>>>>>> origin/master
