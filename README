@@ -1,0 +1,9 @@
+The Project of I AM CODING.
+
+This Projects has two parts
+
+1. Client.
+    
+    the client side is a python script, run as a daemon. and upload the diff info of source files continually.
+
+2. Server.
