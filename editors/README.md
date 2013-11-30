@@ -1,6 +1,5 @@
 ##Plugins for the various editors.
 
-
 ###How to test:
 
 1. Install the plugin.

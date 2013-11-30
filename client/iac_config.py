@@ -3,10 +3,10 @@
 
 iac_config = {
     'username': 'sunus',
-    
+
     'password': 'password',
 
-    'projects': ['~/MyProjects/i-am-coding',],
+    'projects': ['~/MyProjects/i-am-coding', ],
 
     'port': 7375,
 }
